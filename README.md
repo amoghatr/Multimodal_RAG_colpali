@@ -2,6 +2,8 @@
 
 A **vision-first RAG (Retrieval-Augmented Generation)** system that leverages ColPali embeddings for multimodal document understanding. Unlike traditional RAG systems that extract text, this system preserves visual layout, charts, diagrams, and spatial relationships by working directly with document images.
 
+![ColPali RAG System](project_ss.png)
+
 ## 🌟 Features
 
 - **Vision-First Approach**: Processes PDFs as images, preserving layout and visual elements
